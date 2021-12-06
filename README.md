@@ -1,4 +1,5 @@
 # Bank-ATM-Management-System
+i have created bank & atm management system in C++.
 ![1](https://user-images.githubusercontent.com/66565215/144861892-4d2c30ca-3394-405f-9a72-f2a98500d14c.jpg)
 ![2](https://user-images.githubusercontent.com/66565215/144861901-dcf08375-c875-47c6-a56e-f5a05f850a16.jpg)
 ![3](https://user-images.githubusercontent.com/66565215/144861902-f0b70ae7-4487-457a-8e93-6e7e0351a851.jpg)
